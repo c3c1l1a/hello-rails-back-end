@@ -1,24 +1,76 @@
-# README
+# Hello Rails Back end
+Quick example of rails used as end API endpoint 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Link to front end made with react
+[hello-react-front-end](https://github.com/c3c1l1a/hello-react-front-end)
 
-* Ruby version
 
-* System dependencies
+## Getting Started
 
-* Configuration
+This project is open source and you are free take modify and do with as you wish. To get a local copy up and running follow these simple example steps.
 
-* Database creation
+### Prerequisites ♻️
+- Any modern browser.
+- A local version control like git installed on your computer
+- Code editor (Visual studio code, sublime text, notepad++, ...) installed on your computer;
+- Knowledge of Ruby, databases and rails
+- Ruby version >=3.0.0
 
-* Database initialization
+### Download 🎰
+-  Click this [link](https://github.com/c3c1l1a/rails_blog.git) to clone down the source code or download it as a [zip file](https://github.com/c3c1l1a/rails_blog/archive/refs/heads/dev.zip)
 
-* How to run the test suite
+## Available Scripts
 
-* Services (job queues, cache servers, search engines, etc.)
+In the project directory, you can run:
 
-* Deployment instructions
+## Run installation scripts
+> Run the commands below in the terminal or `git bash`.
+> `bundle install` - to install gems
 
-* ...
+
+## Run rails server 
+> `rails server` to start the server local on your machine 
+> Open your browser and paste this in the URL box `http://127.0.0.1:3000`
+
+## Run rails console
+> `rails c` to start rails console
+> `rails c --sandbox` to start the rails console in sandbox for testing without affecting the database
+
+### Run code linters 🧪
+> Run the commands below in the terminal or `git bash`.
+> `rubocop `  to run the rubocop linter
+
+### Run test scripts
+- `rspec `  to run the test scripts
+
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@c3c1l1a](https://github.com/c3c1l1a/)
+- Twitter: [@cMukima](https://twitter.com/CMukima)
+- LinkedIn: [cecilia-wangui-mukima](https://linkedin.com/in/linkedinhandle)
+- Profile [c3cl1ia.github.io](https://c3c1l1a.github.io)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
